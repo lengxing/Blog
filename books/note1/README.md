@@ -6,5 +6,3 @@
 *   [1.2 理解作用域](chapter_01/READEME.md#理解作用域)
 *   [1.3 作用域嵌套](chapter_01/READEME.md#作用域嵌套)
 *   [1.3 异常](chapter_01/READEME.md#异常)
-
-

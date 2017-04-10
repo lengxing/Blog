@@ -1,110 +1,81 @@
 # 深入React技术栈
 
-*   [初入react世界](https://github.com/snailTJ/Blog/blob/master/books/book_02/READEME.md#初入react世界)
-*   [慢谈react](https://github.com/snailTJ/Blog/blob/master/books/book_02/READEME.md#慢谈react)
-*   [解读react源码](https://github.com/snailTJ/Blog/blob/master/books/book_02/READEME.md#解读react源码)
-*   [认识Flux架构模式](https://github.com/snailTJ/Blog/blob/master/books/book_02/READEME.md#认识Flux架构模式)
-*   [深入redux应用架构](https://github.com/snailTJ/Blog/blob/master/books/book_02/READEME.md#深入redux应用架构)
-*   [redux高阶应用](https://github.com/snailTJ/Blog/blob/master/books/book_02/READEME.md#readux高阶应用)
-*   [react服务端渲染](https://github.com/snailTJ/Blog/blob/master/books/book_02/READEME.md#react服务端渲染)
-*   [玩转react可视化](https://github.com/snailTJ/Blog/blob/master/books/book_02/READEME.md#玩转react可视化)
+## [初入react世界](https://github.com/snailTJ/Blog/blob/master/books/book_02/docs/)
+*   [JSX语法]()
+*   [React组件]()
+*   [React数据流]()
+*   [React生命周期]()
+*   [React与DOM]()
 
-## 初入react世界
+[更多]()
 
-### React简介
+## [慢谈react](https://github.com/snailTJ/Blog/blob/master/books/book_02/README.md#慢谈react)
 
-### JSX语法
+*   [事件系统]()
+*   [表单]()
+*   [样式处理]()
+*   [组件间通信]()
+*   [组件间抽象]()
+*   [组件性能优化]()
+*   [动画]()
+*   [自动化测试]()
 
-### React 组件
+[更多]()
 
-### React数据流
+## [解读react源码](https://github.com/snailTJ/Blog/blob/master/books/book_02/README.md#解读react源码)
 
-### React生命周期
+*   [初探react源码]()
+*   [Virtual DOM模型]()
+*   [生命周期的管理艺术]()
+*   [解密setState机制]()
+*   [diff算法]()
+*   [React Patch方法]()
 
-### React与DOM
+[更多]()
 
-## 漫谈react
+##  [认识Flux架构模式](https://github.com/snailTJ/Blog/blob/master/books/book_02/README.md#认识Flux架构模式)
 
-### 事件系统
+*   [React独立架构]()
+*   [MV*与Flux]()
+*   [Flux基本概念]()
+*   [FLux应用实例]()
+*   [解读FLux]()
 
-### 表单
+[更多]()
 
-### 样式处理
+##  [深入redux应用架构](https://github.com/snailTJ/Blog/blob/master/books/book_02/README.md#深入redux应用架构)
 
-### 组件间通信
+*   [Redux简介]()
+*   [Redux middleware]()
+*   [Redux异步流]()
+*   [Redux与路由]()
+*   [Readux与组件]()
+*   [Redux应用实例]()
 
-### 组件间抽象
+[更多]()
 
-### 组件性能优化
+##  [redux高阶应用](https://github.com/snailTJ/Blog/blob/master/books/book_02/README.md#readux高阶应用)
 
-### 动画
+*   [高阶reducer]()
+*   [Redux与表单]()
+*   [Redux CRUD实战]()
+*   [Redux性能优化]()
+*   [解读Redux]()
 
-### 自动化测试
+[更多]()
 
-## 解读react源码
+##  [react服务端渲染](https://github.com/snailTJ/Blog/blob/master/books/book_02/README.md#react服务端渲染)
 
-### 初探react源码
+*   [React与服务端模板]()
+*   [React服务端渲染]()
 
-### Virtual DOM模型
+[更多]()
 
-### 生命周期的管理艺术
+##  [玩转react可视化](https://github.com/snailTJ/Blog/blob/master/books/book_02/README.md#玩转react可视化)
 
-### 解密setState机制
+*   [React结合Canvas和SVG]()
+*   [React与可视化组件]()
+*   [Recharts组件化原理]()
 
-### diff算法
+[更多]()
 
-### React Patch方法
-
-## 认识Flux架构模式
-
-### React 独立架构
-
-### MV* 与Flux
-
-### Flux基本概念
-
-### FLux应用实例
-
-### 解读FLux
-
-## 深入redux应用架构
-
-### Redux简介
-
-### Redux middleware
-
-### Redux异步流
-
-### Redux与路由
-
-### Readux与组件
-
-### Redux应用实例
-
-## redux高阶应用
-
-### 高阶reducer
-
-### Redux与表单
-
-### Redux CRUD实战
-
-### Redux性能优化
-
-### 解读Redux
-
-### 解读react-redux
-
-## react服务端渲染
-
-### React 与服务端模板
-
-### React 服务端渲染
-
-## 玩转react可视化
-
-### React结合Canvas和SVG
-
-### React与可视化组件
-
-### Recharts组件化原理

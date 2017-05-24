@@ -10,7 +10,7 @@
 
 ## 我看过的书
 
-*   [你不知道的javascript](books/book_01/README.md)
-*   [深入react技术栈](books/book_02/README.md)
+*   [你不知道的javascript]()
+*   [深入react技术栈)()
 
 [全部书籍](books/README.md)
